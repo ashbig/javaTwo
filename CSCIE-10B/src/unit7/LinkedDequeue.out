@@ -1,0 +1,20 @@
+Script started on Mon 28 Apr 2014 05:17:14 PM EDT
+ice:%~ % java Linkewd[K[KdDequeue
+Lets add some values to the head & tail of our queue.
+First
+Second
+Third
+Fourth
+
+Now let's just remove the head and tail.
+Now peek at the head and tail.. 
+The head is now: Second
+The tail is now: Third
+Great now lets delete it all!
+I'm sorry the queue is empty.
+Hmmm, lets take a peek at the tail to make sure...
+I'm sorry the queue is empty
+ice:%~ % exit
+exit
+
+Script done on Mon 28 Apr 2014 05:17:23 PM EDT

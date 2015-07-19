@@ -1,0 +1,46 @@
+Ashkan Bigdeli
+Pencil and Paper exercises
+
+
+Question 1:
+
+Cell c = new BloodCell(); is valid.
+
+Cell c = new RedBloodCell; is also valid.
+
+BloodCell = c new RedBloodCell(). This is invalid, the first call into new RedBlooCell should be to super
+which in this case would be cell.
+
+RedBloodcell c = new Bloodcell() This is invalid as RedBloodcell extends Bloodcell and would not have
+the correct methods.
+
+
+Question 2:
+
+1. Makes sense, oven is in a kitchen.
+2. Makes sense, guitar is an instrument.
+3. Makes sense I guess... but a person is more than their job :)
+4. If your super class is only engines, then I suppose ferrari would make sense.
+   If your super class is something like cars than no.
+5. Makes sense, fried egg is a food.
+6. Does not make sense. Dog should extend pet and then beagle can extend that, it could work though, but poor form.
+7. does not make sense, jar is a type of container.
+8. does not make sense, martini is a type of bevearge.
+9. does not make sense, titanium is a type of metal.
+10. Makes sense the rolling stones are a rock band.
+
+
+Question 3:
+
+public abstract class Pet
+{
+    String petName;
+    int petYear;
+
+    public class Pet ( String name, int year )
+    {
+        this.petName = name;
+        this petYear = year;
+    }
+}
+    

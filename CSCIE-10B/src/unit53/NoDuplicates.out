@@ -1,0 +1,23 @@
+Script started on Mon 24 Mar 2014 11:53:03 PM EDT
+ice:%~ % NoD[K[K[Kjava NoDuplicates
+You must give an input and output file.
+ice:%~ % java NoDuplicates input.tc[Kxt output.txt
+
+ORIGINAL FILE: input.txt contains the values...
+3
+4
+4
+4
+7
+11
+11
+
+OUTPUT FILE: output.txt contains the values...
+3
+4
+7
+11
+ice:%~ % exit
+exit
+
+Script done on Mon 24 Mar 2014 11:53:25 PM EDT

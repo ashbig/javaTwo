@@ -1,0 +1,56 @@
+Script started on Mon 24 Mar 2014 08:27:11 PM EDT
+ice:%~ % java CaesarCipher
+Enter 1 to encipher, or 2 to decipher (-1 to exit): 
+1
+What shift should I use?
+21  1
+What is the input file name?
+hello.txt
+What is the output file name?
+encodedHello.txt
+Done!
+
+Enter 1 to encipher, or 2 to decipher (-1 to exit): 
+2
+What shift should I use?
+encodedHello.txt
+I'm sorry please use the specified inputs. Goodbye.
+ice:%~ % java CaesarCipher[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kexit
+exit
+
+Script done on Mon 24 Mar 2014 08:27:46 PM EDT
+Script started on Mon 24 Mar 2014 08:27:48 PM EDT
+ice:%~ % exitjava CaesarCipher
+Enter 1 to encipher, or 2 to decipher (-1 to exit): 
+1
+What shift should I use?
+1
+What is the input file name?
+hello.txt
+What is the output file name?
+encodedHello.txt
+Done!
+
+Enter 1 to encipher, or 2 to decipher (-1 to exit): 
+2
+What shift should I use?
+enc   1
+What is the input file name?
+encodedHello.txt
+What is the output file name?
+decodedHello.txt
+Done!
+
+Enter 1 to encipher, or 2 to decipher (-1 to exit): 
+-1
+Thank you for using CaesarCipher. Goodbye.
+ice:%~ % cat hello.txt
+Aa Bb Cc Dd GHIJKLMNOPQRSTUV
+ice:%~ % cat encodedHello.txt
+Ba Cb Dc Ed HIJKLMNOPQRSTUVW
+ice:%~ % cat encoded[K[K[K[K[K[K[Kdecoced[K[K[Ko[K[K[KcodedHello.txt
+Aa Bb Cc Dd GHIJKLMNOPQRSTUV
+ice:%~ % exit
+exit
+
+Script done on Mon 24 Mar 2014 08:28:54 PM EDT

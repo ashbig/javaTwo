@@ -1,0 +1,112 @@
+Script started on Mon 28 Apr 2014 05:15:50 PM EDT
+ice:%~ % java TestSets
+
+Type 1 to CREATE SET A
+Type 2 to CREATE SET B
+Type 3 to CREATE INTERSECTION (A * B)
+Type 4 to CREATE UNION (A + B)
+Type 5 to CREATE DIFFERENCE (A - B)
+Type 6 to SHOW THE CARDINALITY OF SETS A and B
+Type 7 to SHOW ANY SUBSETS
+Type any OTHER # to EXIT PROGRAM 
+
+Command: 1
+Type some small integers, each < 16, and type DONE when all done!
+1 2 3 4 5
+done
+     SET A = {  1  2  3  4  5  }
+Type 1 to CREATE SET A
+Type 2 to CREATE SET B
+Type 3 to CREATE INTERSECTION (A * B)
+Type 4 to CREATE UNION (A + B)
+Type 5 to CREATE DIFFERENCE (A - B)
+Type 6 to SHOW THE CARDINALITY OF SETS A and B
+Type 7 to SHOW ANY SUBSETS
+Type any OTHER # to EXIT PROGRAM 
+
+Command: 2
+Type some small integers, each < 8, and type DONE when all done!
+1 2 3 done
+     SET B = {  1  2  3  }
+Type 1 to CREATE SET A
+Type 2 to CREATE SET B
+Type 3 to CREATE INTERSECTION (A * B)
+Type 4 to CREATE UNION (A + B)
+Type 5 to CREATE DIFFERENCE (A - B)
+Type 6 to SHOW THE CARDINALITY OF SETS A and B
+Type 7 to SHOW ANY SUBSETS
+Type any OTHER # to EXIT PROGRAM 
+
+Command: 6
+The cardinality of set A is 5
+The cardinality of set B is 3
+Type 1 to CREATE SET A
+Type 2 to CREATE SET B
+Type 3 to CREATE INTERSECTION (A * B)
+Type 4 to CREATE UNION (A + B)
+Type 5 to CREATE DIFFERENCE (A - B)
+Type 6 to SHOW THE CARDINALITY OF SETS A and B
+Type 7 to SHOW ANY SUBSETS
+Type any OTHER # to EXIT PROGRAM 
+
+Command: 7
+     A a subset of B: false
+     B a subset of A: true
+Type 1 to CREATE SET A
+Type 2 to CREATE SET B
+Type 3 to CREATE INTERSECTION (A * B)
+Type 4 to CREATE UNION (A + B)
+Type 5 to CREATE DIFFERENCE (A - B)
+Type 6 to SHOW THE CARDINALITY OF SETS A and B
+Type 7 to SHOW ANY SUBSETS
+Type any OTHER # to EXIT PROGRAM 
+
+Command: 1
+Type some small integers, each < 16, and type DONE when all done!
+1 2 3 done
+     SET A = {  1  2  3  }
+Type 1 to CREATE SET A
+Type 2 to CREATE SET B
+Type 3 to CREATE INTERSECTION (A * B)
+Type 4 to CREATE UNION (A + B)
+Type 5 to CREATE DIFFERENCE (A - B)
+Type 6 to SHOW THE CARDINALITY OF SETS A and B
+Type 7 to SHOW ANY SUBSETS
+Type any OTHER # to EXIT PROGRAM 
+
+Command: 2
+Type some small integers, each < 8, and type DONE when all done!
+12  2 3 4 done
+     SET B = {  1  2  3  4  }
+Type 1 to CREATE SET A
+Type 2 to CREATE SET B
+Type 3 to CREATE INTERSECTION (A * B)
+Type 4 to CREATE UNION (A + B)
+Type 5 to CREATE DIFFERENCE (A - B)
+Type 6 to SHOW THE CARDINALITY OF SETS A and B
+Type 7 to SHOW ANY SUBSETS
+Type any OTHER # to EXIT PROGRAM 
+
+Command: 7
+     A a subset of B: true
+     B a subset of A: false
+Type 1 to CREATE SET A
+Type 2 to CREATE SET B
+Type 3 to CREATE INTERSECTION (A * B)
+Type 4 to CREATE UNION (A + B)
+Type 5 to CREATE DIFFERENCE (A - B)
+Type 6 to SHOW THE CARDINALITY OF SETS A and B
+Type 7 to SHOW ANY SUBSETS
+Type any OTHER # to EXIT PROGRAM 
+
+Command: exit
+Exception in thread "main" java.util.InputMismatchException
+	at java.util.Scanner.throwFor(Scanner.java:909)
+	at java.util.Scanner.next(Scanner.java:1530)
+	at java.util.Scanner.nextInt(Scanner.java:2160)
+	at java.util.Scanner.nextInt(Scanner.java:2119)
+	at TestSets.main(TestSets.java:37)
+ice:%~ % exit
+exit
+
+Script done on Mon 28 Apr 2014 05:16:51 PM EDT

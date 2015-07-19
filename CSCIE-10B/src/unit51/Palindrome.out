@@ -1,0 +1,20 @@
+Script started on Mon 17 Feb 2014 08:19:12 PM EST
+ice:%~ % exitjava Palindrome
+Palindrome checker: "My gym tasks are too lonely?" A a Jay Leno L looter asks at my gym.
+" "My gym tasks are too lonely?" a Jay Leno looter asks at my gym. " is a palindrome!
+ice:%~ % java Palindrome
+Palindrome checker: Cigar? Toss it in a can, it is so tragic!
+" Cigar? Toss it in a can, it is so tragic! " is a palindrome!
+ice:%~ % java Palindrome
+Palindrome checker: 'Ed   "ed  Ed I  , I saw Harpo Marx ram Oprah w. W  W. aside."
+" "Ed, I saw Harpo Marx ram Oprah W. aside." " is a palindrome!
+ice:%~ % java Palindrome
+Palindrome checker: Marge let a moody baby doom a telegram. 
+" Marge let a moody baby doom a telegram.  " is a palindrome!
+ice:%~ % java Palindrome
+Palindrome checker: lkjlkdsajflkjfdlkjsf
+" lkjlkdsajflkjfdlkjsf is not a palindrome.
+ice:%~ % exit
+exit
+
+Script done on Mon 17 Feb 2014 08:20:46 PM EST

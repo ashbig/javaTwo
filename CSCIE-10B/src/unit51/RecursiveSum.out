@@ -1,0 +1,10 @@
+Script started on Mon 17 Feb 2014 08:24:27 PM EST
+ice:%~ % java re[K[KRecursiveSum
+The sum of [1, 2, 3, 5, 6, 7] is 24.
+The sum of [1] is 1.
+The sum of [10, -100, 10, -10] is -90.
+The sum of [0, 0, 0, 0] is 0.
+ice:%~ % exit
+exit
+
+Script done on Mon 17 Feb 2014 08:24:48 PM EST

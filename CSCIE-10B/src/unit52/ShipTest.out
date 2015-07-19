@@ -1,0 +1,12 @@
+Script started on Mon 03 Mar 2014 11:33:43 PM EST
+ice:%~ % java ShipTest
+Cruise1 can hold 20000 passengers.
+Titantic can hold 2207 passengers.
+Cargo1 and has a capcity of 500.25 tonnage.
+Cargo2 and has a capcity of 250.32 tonnage.
+Tanker1 and can hold 2000.12 gallons.
+Tanker2 and can hold 60000.34 gallons.
+ice:%~ % exit
+exit
+
+Script done on Mon 03 Mar 2014 11:33:55 PM EST

@@ -1,0 +1,13 @@
+Script started on Mon 03 Mar 2014 11:33:19 PM EST
+ice:%~ % java BarCodeTest
+|||:::::|:|:::||::||:|::|::||::|
+95014
+|:::|||:|::||:::::||::|:|:::|:||
+19035
+Your barcode was invalid.
+Your barcode was invalid.
+Your barcode was invalid.
+ice:%~ % exit
+exit
+
+Script done on Mon 03 Mar 2014 11:33:29 PM EST

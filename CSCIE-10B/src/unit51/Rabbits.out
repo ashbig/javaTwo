@@ -1,0 +1,18 @@
+Script started on Mon 17 Feb 2014 08:22:55 PM EST
+ice:%~ % java Rabbits
+At the end of month #1, there are 0 mature rabbits pairs.
+At the end of month #2, there are 1 mature rabbits pairs.
+At the end of month #3, there are 1 mature rabbits pairs.
+At the end of month #4, there are 2 mature rabbits pairs.
+At the end of month #5, there are 3 mature rabbits pairs.
+At the end of month #6, there are 5 mature rabbits pairs.
+At the end of month #7, there are 8 mature rabbits pairs.
+At the end of month #8, there are 13 mature rabbits pairs.
+At the end of month #9, there are 21 mature rabbits pairs.
+At the end of month #10, there are 34 mature rabbits pairs.
+At the end of month #11, there are 55 mature rabbits pairs.
+At the end of month #12, there are 89 mature rabbits pairs.
+ice:%~ % exit
+exit
+
+Script done on Mon 17 Feb 2014 08:23:10 PM EST
